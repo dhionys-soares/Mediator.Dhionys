@@ -23,4 +23,4 @@ jobs:
         run: dotnet pack --configuration Release
         
       - name: Publish
-        run: dotnet nuget push "Mediator.Dhionys/bin/Release/*.nupkg" -k ${{ NUGET_SECRET }} -s https://api.nuget.org/v3/index.json
+        run: dotnet nuget push "Mediator.Dhionys/bin/Release/*.nupkg" -k ${{ secrets.NUGET_SECRET }} -s https://api.nuget.org/v3/index.json
