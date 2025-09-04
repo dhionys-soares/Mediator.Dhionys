@@ -1,0 +1,3 @@
+﻿| Package                         |  Version | Downloads |
+|---------------------------------| ----- | ----- |
+| `Mediator.Abstractions.Dhionys` | [![NuGet](https://img.shields.io/nuget/v/Mediator.Abstractions.Dhionys.svg)](https://nuget.org/packages/Mediator.Abstractions.Dhionys) | [![Nuget](https://img.shields.io/nuget/dt/Mediator.Abstractions.Dhionys.svg)](https://nuget.org/packages/Mediator.Abstractions.Dhionys) |
