@@ -1,4 +1,4 @@
-﻿namespace Mediator.Abstractions.Dhionys;
+﻿namespace Mediator.Dhionys;
 
 public interface IHandler<in TRequest,  TResponse> where TRequest : IRequest<TResponse>
 {

@@ -1,3 +1,3 @@
-﻿namespace Mediator.Abstractions.Dhionys;
+﻿namespace Mediator.Dhionys;
 
 public interface IRequest<TResponse>;
